@@ -8,4 +8,5 @@ class CreateOwners < ActiveRecord::Migration
   def down
     drop_table :owners
   end
+  #comment
 end
